@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cedricvidal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vidal.biz
+  * I am cedricvidal (https://keybase.io/cedricvidal) on keybase.
+  * I have a public key ASBfThWeQLMxGzhpoYGGVpSO1hx6Z2-j0opEXgXLbdXJJgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205f4e159e40b3311b3869a1818656948ed61c7a676fa3d28a445e05cb6dd5c9260a",
+      "host": "keybase.io",
+      "kid": "01205f4e159e40b3311b3869a1818656948ed61c7a676fa3d28a445e05cb6dd5c9260a",
+      "uid": "951a93907f133c4c5a3d60b205b97b19",
+      "username": "cedricvidal"
+    },
+    "merkle_root": {
+      "ctime": 1554565900,
+      "hash": "1e12f2dc792a6ff93d96024c8bb5a89ee940e7dbfc11d3ee1c0d6d759f5db24c532fadf90dedb5472fce8c692bac7147c12bd67cc5f6d0007fdbe97a8c246318",
+      "hash_meta": "53f0c7167598bfb140c635b874ce1b649ba6726ea05e03a39cdf37e5b55658b3",
+      "seqno": 5109292
+    },
+    "service": {
+      "entropy": "QjIJtgwsHnIY3SgElPbaT5qi",
+      "hostname": "vidal.biz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1554565911,
+  "expire_in": 504576000,
+  "prev": "aa02d7d85dfab9e327a0dbea64c472b55b3b04f5332a43fc1932c199fc704c1b",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgX04VnkCzMRs4aaGBhlaUjtYcemdvo9KKRF4Fy23VySYKp3BheWxvYWTESpcCEsQgqgLX2F36ueMnoNvqZMRytVs7BPUzKkP8GTLBmfxwTBvEIJN8kAKBtWB/Q0LjEbsLLJ25zGZQk08e0dzib6i6M26sAgHCo3NpZ8RAz2kfM+dR2mT7tabJSgR6qcJW2fZBWVFa++vuShZshG0NPlFOpWxuM8kddo+ujy1488+cSarEiUhgMuDAUVtEBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIjqohaMxNXGRjoA7h5zmgAT56lf8w9QPEXDxsdN3cdBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cedricvidal
+
+==================================================================
